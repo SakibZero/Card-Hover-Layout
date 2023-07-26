@@ -101,6 +101,7 @@ h3 {
 
 .single-team-membere-inner {
     position: relative;
+    box-shadow: 3px 3px 7px #00000053;
 }
 
 .single-team-members:hover
